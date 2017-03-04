@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Helpers\OpenWeatherMapApi;
 
-class ForecastController extends Controller
+class ClimateController extends Controller
 {
 	public function __construct()
 	{

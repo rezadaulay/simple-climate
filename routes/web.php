@@ -10,4 +10,4 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('/', 'ForecastController@index');
+Route::get('/', 'ClimateController@index');
